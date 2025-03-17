@@ -62,7 +62,7 @@
 <ol>
   <li> Abra o arquivo <code>index.html</code> no seu navegador.</li>
   ou
-  <li>Acesse o projeto aqui: https://amigo-secreto-zeta-two.vercel.app </li>
+  <li>Acesse o projeto aqui: https://flaviasimionatto.github.io/amigo-secreto/ </li>
 </ol>
 
 
